@@ -20,4 +20,4 @@ Promise.all([
 })
 .catch(error => {
     console.log("Error");
-})git 
+})
